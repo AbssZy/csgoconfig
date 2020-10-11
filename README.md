@@ -1,2 +1,2 @@
 # csgoconfig
-My exec file for csgo config
+My exec files for csgo config.
